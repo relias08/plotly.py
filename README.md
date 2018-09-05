@@ -1,3 +1,5 @@
+# RVE NOTE: I got this from https://plot.ly/ipython-notebooks/principal-component-analysis/ which is from A_Z L259 (3:49)
+
 # plotly.py
 
 ## Quickstart
